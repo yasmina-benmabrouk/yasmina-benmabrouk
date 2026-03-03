@@ -11,8 +11,7 @@
 
 ### 🚀 Bridging Research & Production
 
-I combine **PhD-level research** with **applied AI/ML engineering**.  
-I build AI systems that are:
+I combine **PhD-level research** with **applied AI/ML engineering**.  I build AI systems that are:
 
 - Scientifically rigorous  
 - Reproducible and secure  
@@ -53,7 +52,8 @@ Currently, I specialize in **Diagnostic Aid Systems for Breast Tumor Pathologica
 `PyTorch` · `TensorFlow` · `Scikit-learn` · `OpenCV` · `Hugging Face (Transformers)`  · `Vision Transformers`
 
 ### Document & Vision AI
-OCR pipelines · Layout-aware document processing · Script identification models · Multimodal Fusion · Vision-Language Models (VLM)
+OCR · Layout-aware document processing · Script identification · Vision-Language Models (VLM)
+
 ### LLM & Generative AI Systems
 Retrieval-Augmented Generation (RAG) · Embedding models · Vector databases · Prompt engineering · LLM evaluation workflows
 
@@ -71,10 +71,10 @@ Docker · FastAPI · RESTful APIs · AI microservices · Data preprocessing pipe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/half-duplex/half-duplex/master/svg/huggingface.svg" width="40" height="40" alt="Hugging Face" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 </p>
 
 ---

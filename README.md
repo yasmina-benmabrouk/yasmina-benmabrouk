@@ -55,13 +55,13 @@ Currently, I specialize in **Diagnostic Aid Systems for Breast Tumor Pathologica
 OCR · Layout-aware document processing · Script identification · Vision-Language Models (VLM)
 
 ### LLM & Generative AI Systems
-Retrieval-Augmented Generation (RAG) · Embedding models · Vector databases · Prompt engineering · LLM evaluation workflows
+Retrieval-Augmented Generation (RAG) · Embedding models · Vector databases · Prompt engineering · LLM evaluation 
 
 ### AI System Design & Infrastructure
-Reproducible ML pipelines · Modular architecture · Experiment tracking · Model lifecycle structuring · Evaluation protocol engineering
+Reproducible ML pipelines · Modular architecture · Experiment tracking · Evaluation protocol engineering
 
 ### Backend & Integration
-Docker · FastAPI · RESTful APIs · AI microservices · Data preprocessing pipelines · Deployment-aware system integration 
+Docker · FastAPI · RESTful APIs · AI microservices · Data preprocessing · Deployment-aware system integration 
 
 ---
 

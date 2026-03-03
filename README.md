@@ -4,6 +4,7 @@
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Academic_Profile-1a73e8?style=flat-square)](https://scholar.google.com/citations?user=tLtbFj8AAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-Researcher_ID-a6ce39?style=flat-square)](https://orcid.org/0000-0002-5511-7578)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square)](https://www.researchgate.net/profile/Yasmina-Benmabrouk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0a66c2?style=flat-square)](https://linkedin.com/in/yasmina-benmabrouk)
 [![Website](https://img.shields.io/badge/Portfolio-Website-000000?style=flat-square)](https://yasmina-benmabrouk.github.io/)
 
@@ -80,16 +81,11 @@ Docker · FastAPI · RESTful APIs · AI microservices · Data preprocessing · D
 ---
 
 ## Selected Publications
-- **Enhancing Breast Cancer Histopathological Image Classification: The Impact of Stain Normalization on Multilevel Feature Extraction** *Biomedical Signal Processing and Control (BSPC)*, 2025
-  [Paper](https://doi.org/10.1016/j.bspc.2025.107700) | [Code Coming Soon]
-- **Breaking Boundaries: Enhancing Script Identification Using a Learnable MULLER Resizer** — *ICPR*, 2024  
-  [Paper](https://doi.org/10.1007/978-3-031-78119-3_16) | [Code Coming Soon]
-- **When machine unlearning meets script identification** - *IMVIP*, 2025
-  [Paper](https://doi.org/10.1049/icp.2024.3330) | [Code Coming Soon]
-- **Knowledge Distillation for IDC Grading: Magnification-Dependent Approach** — *MedPRAI*, 2025  
-  [Paper](https://doi.org/10.1007/978-3-031-90893-4_41) | [Code Coming Soon]
-- **Adaptive Knowledge Distillation for Invasive Ductal Carcinoma Grading** — *IMVIP*, 2024  
-  [Paper](https://doi.org/10.1049/icp.2024.3328) | [Code Coming Soon]
+- **Enhancing Breast Cancer Histopathological Image Classification: The Impact of Stain Normalization on Multilevel Feature Extraction** *Biomedical Signal Processing and Control (BSPC)*, 2025 [Paper](https://doi.org/10.1016/j.bspc.2025.107700)
+- **Breaking Boundaries: Enhancing Script Identification Using a Learnable MULLER Resizer** — *ICPR*, 2024 [Paper](https://doi.org/10.1007/978-3-031-78119-3_16)
+- **When machine unlearning meets script identification** - *IMVIP*, 2025 [Paper](https://doi.org/10.1049/icp.2024.3330)
+- **Knowledge Distillation for IDC Grading: Magnification-Dependent Approach** — *MedPRAI*, 2025 [Paper](https://doi.org/10.1007/978-3-031-90893-4_41)
+- **Adaptive Knowledge Distillation for Invasive Ductal Carcinoma Grading** — *IMVIP*, 2024  [Paper](https://doi.org/10.1049/icp.2024.3328)
   
 Full publication list available on my [portfolio website](https://yasmina-benmabrouk.github.io/).
 
